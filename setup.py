@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="and.capuano@gmail.com",
     description="It's pip... with git.",
     long_description=long_description,
-    url="https://github.com/arocketman/git-and-pip",
+    url="https://github.com/elNapoli/git-and-pip",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
