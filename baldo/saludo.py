@@ -1,2 +1,2 @@
-fun saludar():
+def  saludar():
     return "hola baldomero "
